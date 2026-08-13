@@ -47,13 +47,19 @@ Based on the evaluated image set, **VGG achieved the strongest overall results**
 
 VGG achieved **87.50% overall match**, **100.00% dog detection**, **93.33% breed accuracy**, and **100.00% non-dog detection** on the evaluated image set.
 
+![VGG model results](VGG.png)
+
 ### ResNet
 
 ResNet achieved **82.50% overall match**, **100.00% dog detection**, **90.00% breed accuracy**, and **90.00% non-dog detection**.
 
+![ResNet model results](RESNET.png)
+
 ### AlexNet
 
 AlexNet achieved **75.00% overall match**, **100.00% dog detection**, **80.00% breed accuracy**, and **100.00% non-dog detection**.
+
+![AlexNet model results](ALEXNET.png)
 
 ## Technologies
 
